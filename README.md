@@ -7,18 +7,17 @@ Began transitioning to Data Analytics in 2022
 - 👩🏻‍💻 Python enthusiast
 - 🌿 Always learning something new
 
-📚 Projects: Here is my portfolio, feel free to take a look!
+### 📚 Projects: Here is my portfolio, feel free to take a look!
 
-🛠️ Tools:
+### 🛠️ Tools:
 - Language: Python
 - Visualizations: Tableau, MS Power BI, Python libraries like matplotlib and seaborn
 
-🏆 Certificatons:
+### 🏆 Certificatons:
 - Microsoft: Azure AI Fundamentals
 
-🤓 What I'm learning now?
+### 🤓 What I'm learning now?
 - MS Power BI deepening my knowledge
 - SQL
 
-👋🏻 Connect with me
-[LinkedIn](www.linkedin.com/in/allison-høgsdorf)
+### 💡 Connect with me: [LinkedIn](www.linkedin.com/in/allison-høgsdorf)
