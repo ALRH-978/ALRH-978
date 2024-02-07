@@ -19,4 +19,6 @@ Began transitioning to Data Analytics in 2022
 🤓 What I'm learning now?
 - MS Power BI deepening my knowledge
 - SQL
-  
+
+👋🏻 Connect with me
+[LinkedIn](www.linkedin.com/in/allison-høgsdorf)
