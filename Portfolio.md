@@ -1,3 +1,11 @@
 # Portfolio
 
-## Table of Contents
+
+
+
+
+## Data Visualizations
+
+|Project Name| Description| Tools Used|
+|---|---|---|
+Lonliness in Denmark| This was a small visualization project I conducted in my internship at ReDI School of Digital Integration. Their Digital Beginner's program provides computer courses to immigrant and refugee women. One of the major social impacts of ReDI's work is a reported decrease in lonliness. Therefore, I wanted to present to the team, the latest data about lonliness in Denmark. | Pandas, NumPy, MatPlotLib|
