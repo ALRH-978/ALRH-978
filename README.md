@@ -7,7 +7,7 @@ Began transitioning to Data Analytics in 2022
 - 👩🏻‍💻 Python enthusiast
 - 🌿 Always learning something new
 
-### 📚 Projects: Here is my portfolio, feel free to take a look!
+### 📚 Projects: Here is my [portfolio](Portfolio.md), feel free to take a look!
 
 ### 🛠️ Tools:
 - Language: Python
