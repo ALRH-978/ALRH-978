@@ -1,3 +1,3 @@
-# Allison's Portfolio
+# Portfolio
 
 ## Table of Contents
