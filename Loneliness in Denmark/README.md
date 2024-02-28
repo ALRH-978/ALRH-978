@@ -1,5 +1,7 @@
 # Loneliness in Denmark
 
+This was a small visualization project I conducted in my internship at ReDI School of Digital Integration. Their Digital Beginner's program provides computer courses to immigrant and refugee women. One of the major social impacts of ReDI's work is a reported decrease in lonliness. Therefore, I wanted to present to the team, the latest data about lonliness in Denmark.
+
 Den Nationale Sundhedsprofile provides statistical data about the health and mental health of the Danish population. 
 
 While the results in Den Nationale Sundhedsprofil 2021 had many more categories, I focused on those that were relevant to ReDI School's programs.
