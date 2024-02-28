@@ -1,7 +1,7 @@
 ### ✨ About Me ✨
 
-- 👩🏻‍🏫 8 years experience in teaching
-- 🏥 Master's in Social Work and a strong interest in healthcare data analysis
+- 👩🏻‍🏫 8 years experience in education
+- 🏥 Master's in clinical social work and a strong interest in healthcare data analysis
 - 👩🏻‍💻 Python enthusiast
 - 🌿 Always learning something new
 
